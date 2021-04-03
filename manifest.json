@@ -9,8 +9,9 @@
     "options_page":"./options.html",
     "permissions":[
         "storage",
-        "notifcation",
-        "contextMenus"
+        "contextMenus",
+        "tabs"
+        
     ]
         
     
